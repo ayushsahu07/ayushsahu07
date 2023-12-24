@@ -1,9 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)]()
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)]
 <h1 align="center">Hi 👋, I'm Ayush Sahu</h1>
 <h3 align="center">Web / Software Developer | Ui/Ux | Python</h3>
-<img align="right" alt="Coding" width="400" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsahu07&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsahu07" /> </p>
+<p align="left">  </p>
 
 - 🔭 I’m currently working on **Development**
 
