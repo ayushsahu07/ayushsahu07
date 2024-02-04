@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java , Python , Web Development**
 
-- 📫 How to reach me **ayushsahu07aks@gmail.com**
+- 📫 How to reach me **ayushsahu1507@gmail.com**
 
 - ⚡ Fun fact **I love creating content**
 
